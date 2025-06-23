@@ -1,0 +1,128 @@
+/* CHONY Experiment 13 - App CSS */
+.app-root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+}
+
+.chony-header {
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 2px solid var(--chony-red);
+  padding: 0;
+  box-shadow: 0 2px 12px var(--chony-shadow);
+  backdrop-filter: blur(10px);
+}
+
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 0;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.chony-logo {
+  font-family: 'Poppins', 'Inter', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--chony-red);
+  letter-spacing: 2px;
+  line-height: 1;
+}
+
+.chony-sub {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 400;
+  margin-top: 2px;
+  letter-spacing: 1px;
+}
+
+.header-info {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1rem;
+}
+
+.main-content {
+  flex: 1 1 auto;
+  padding: 40px 0 30px 0;
+  min-height: 60vh;
+}
+
+.chony-footer {
+  background: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 0.7);
+  padding: 18px 0 12px 0;
+  font-size: 1rem;
+  border-top: 2px solid var(--chony-red);
+  box-shadow: 0 -2px 12px var(--chony-shadow);
+  backdrop-filter: blur(10px);
+}
+
+/* Todo Stats */
+.todo-stats {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Filter Controls */
+.filter-controls {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Todo List */
+.todo-list {
+  max-height: 500px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .header-flex {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .main-content {
+    padding: 24px 0 20px 0;
+  }
+  
+  .chony-logo {
+    font-size: 1.5rem;
+  }
+  
+  .todo-stats {
+    padding: 15px;
+  }
+  
+  .filter-controls {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 10px;
+  }
+  
+  .todo-stats {
+    padding: 12px;
+  }
+  
+  .filter-controls {
+    padding: 12px;
+  }
+} 
