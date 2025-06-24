@@ -243,18 +243,14 @@ function loadSessionData() {
 ### Required Screenshots
 Please add the following screenshots to the `Screenshots/` directory:
 
-1. **home-page.png** - Main landing page with session management interface
-2. **catalog-page.png** - Product catalog with search and filtering
-3. **cart-page.png** - Shopping cart with session-based items
-4. **session-management.png** - Session information panel
-5. **responsive-design.png** - Mobile responsive design demonstration
+![image](https://github.com/user-attachments/assets/11b80fa8-c873-47f3-926e-a013f2aa0646)
 
-### Screenshot Guidelines
-- Use high-resolution screenshots (1920x1080 or higher)
-- Capture key functionality and features
-- Include session status indicators
-- Show responsive design on different screen sizes
-- Highlight session management features
+![image](https://github.com/user-attachments/assets/a605ffcc-ad7b-48e6-b8ab-b697f87c2f87)
+
+![image](https://github.com/user-attachments/assets/9f7a3277-6a9d-47c3-9769-9fbb77a414e5)
+
+![image](https://github.com/user-attachments/assets/5df78110-ad80-47ae-b22c-2e7d01db3372)
+
 
 ## Performance Analysis
 
