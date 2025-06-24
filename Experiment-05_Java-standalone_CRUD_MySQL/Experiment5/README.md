@@ -96,28 +96,13 @@ Experiment5/
 ## Output Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main-dashboard.png)
-*CHONY User Management System main interface with user table*
+![image](https://github.com/user-attachments/assets/b1de4aff-53a4-4d8d-930e-be1c15e5353e)
 
-### Add User Modal
-![Add User Modal](screenshots/add-user-modal.png)
-*Form for adding new users with image upload*
+![image](https://github.com/user-attachments/assets/396574cb-c4cc-4b88-ad08-a5964ab484c8)
 
-### User Details View
-![User Details View](screenshots/user-details.png)
-*Detailed view of user information in modal*
+![image](https://github.com/user-attachments/assets/530fcae8-9110-461d-9313-35efdb248496)
 
-### Edit User Modal
-![Edit User Modal](screenshots/edit-user-modal.png)
-*Form for editing existing user information*
 
-### Delete Confirmation
-![Delete Confirmation](screenshots/delete-confirmation.png)
-*Confirmation dialog for deleting users*
-
-### Search and Filter
-![Search and Filter](screenshots/search-filter.png)
-*Search functionality and sorting options*
 
 ## Key Learning Objectives
 - JavaScript Local Storage API
