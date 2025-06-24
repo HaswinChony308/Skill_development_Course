@@ -259,24 +259,21 @@ The application includes two canvas implementations:
 ## Output Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
-*CHONY Servlet Shopping Cart home page with animated canvas*
+![image](https://github.com/user-attachments/assets/74dd8be4-ee4b-4045-940f-bb9b777c9d62)
+![image](https://github.com/user-attachments/assets/6730993e-2cf9-47bf-839d-b5c441869320)
+![image](https://github.com/user-attachments/assets/ecae7f54-a494-40e1-8f6b-0b38bc57bce4)
+
 
 ### Product Catalog
-![Product Catalog](screenshots/catalog-page.png)
-*Product catalog with dynamic loading from MySQL database*
+![image](https://github.com/user-attachments/assets/c0615968-a222-49e4-bc17-888a40b8a014)
+
 
 ### Canvas Visualization
-![Canvas Visualization](screenshots/canvas-visualization.png)
-*HTML5 Canvas product price visualization*
+![image](https://github.com/user-attachments/assets/7f8e99e6-b95a-4f4c-9a7a-6d119bca249a)
 
 ### Shopping Cart
-![Shopping Cart](screenshots/shopping-cart.png)
-*Shopping cart with product management*
+![image](https://github.com/user-attachments/assets/5da2a17c-1c73-4a21-8c14-6dde4b1fdd44)
 
-### Database Integration
-![Database Integration](screenshots/database-integration.png)
-*MySQL database with product data*
 
 ## Conclusion
 This experiment successfully demonstrates the implementation of a Servlet-Based Controller for a Shopping Cart application using the MVC architecture pattern. The application showcases professional web development practices, database integration, and modern UI design with CHONY branding.
