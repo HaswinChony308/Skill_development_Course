@@ -55,11 +55,8 @@ Experiment8/
 - **eventDemo.js:** Logs "Hello, Alice! Welcome to CHONY Node.js Events Demo."
 
 ## Screenshots
-Please add the following screenshots to the `Screenshots/` directory:
-- `server-output.png` – Browser view of the custom server
-- `osInfo-output.png` – Terminal output of osInfo.js
-- `pathDemo-output.png` – Terminal output of pathDemo.js
-- `eventDemo-output.png` – Terminal output of eventDemo.js
+![image](https://github.com/user-attachments/assets/06641d69-8a3b-4542-b936-ee9db17a586d)
+
 
 ### Screenshot Guidelines
 - Use high-resolution screenshots
